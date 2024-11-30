@@ -162,8 +162,3 @@ function euTeAmo() {
 function refresh() {
     return self.location.href= self.location.href;
 }
-
-function textareaEstaVazia(idTextarea) {
-    const textarea = document.getElementById(idTextarea);
-    return textarea.value.trim() === '';
-  }
