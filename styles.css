@@ -58,6 +58,7 @@ h4 {
       background-color: #0a0a23;
       color: white;
       z-index: 3;
+      cursor: pointer;
   }
   
   footer {
